@@ -1,10 +1,10 @@
 @component('mail::message')
-# Welcome to our project
+    # Welcome to our project
 
-Our space helps you promote your event
+    Our space helps you promote your event
 
 
 
-Thank you for your trust,<br>
-EE team.
+    Thank you for your trust,<br>
+    EE team.
 @endcomponent
